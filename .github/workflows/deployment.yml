@@ -6,7 +6,7 @@ on:
 
 env:
   AWS_REGION: ap-south-1
-  S3_BUCKET: "tejas-idsk229"
+  S3_BUCKET: "2303031300015"
 
 permissions:
   contents: read
